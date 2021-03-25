@@ -1,5 +1,3 @@
-
-
 <div>
 <div class="relative bg-white overflow-hidden">
   <div class="max-w-7xl mx-auto">
@@ -28,21 +26,21 @@
             </div>
           </div>
           <div class="hidden md:block md:ml-10 md:pr-4 md:space-x-8">
-            <a href="#" class="font-medium text-gray-500 hover:text-gray-900">Home</a>
+            <a href="#" class="font-medium text-blue-700 hover:text-gray-900">Home</a>
 
-            <a href="#" class="font-medium text-gray-500 hover:text-gray-900">About</a>
+            <a href="#" class="font-medium text-blue-700 hover:text-gray-900">About</a>
 
-            <a href="#" class="font-medium text-gray-500 hover:text-gray-900">Services</a>
+            <a href="#" class="font-medium text-blue-700 hover:text-gray-900">Services</a>
 
-            <a href="#" class="font-medium text-gray-500 hover:text-gray-900">Jobs</a>
+            <a href="#" class="font-medium text-blue-700 hover:text-gray-900">Jobs</a>
 
-            <a href="#" class="font-medium text-indigo-600 hover:text-indigo-500">Contact</a>
+            <a href="#" class="font-medium text-indigo-600 hover:text-gray-900">Contact</a>
           </div>
         </nav>
       </div>
 
       <!--
-        Mobile menu, show/hide based on menu open state.
+        Mobile menu, show/hide based on menu open .
 
         Entering: "duration-150 ease-out"
           From: "opacity-0 scale-95"
