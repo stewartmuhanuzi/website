@@ -26,15 +26,15 @@
             </div>
           </div>
           <div class="hidden md:block md:ml-10 md:pr-4 md:space-x-8">
-            <a href="#" class="font-medium text-blue-700 hover:text-gray-900">Home</a>
+            <a href="/" class="font-medium text-blue-700 hover:text-gray-900">Home</a>
 
-            <a href="#" class="font-medium text-blue-700 hover:text-gray-900">About</a>
+            <a href="/about" class="font-medium text-blue-700 hover:text-gray-900">About</a>
 
-            <a href="#" class="font-medium text-blue-700 hover:text-gray-900">Services</a>
+            <a href="/services" class="font-medium text-blue-700 hover:text-gray-900">Services</a>
 
-            <a href="#" class="font-medium text-blue-700 hover:text-gray-900">Jobs</a>
+            <a href="/jobs" class="font-medium text-blue-700 hover:text-gray-900">Jobs</a>
 
-            <a href="#" class="font-medium text-indigo-600 hover:text-gray-900">Contact</a>
+            <a href="/contact" class="font-medium text-indigo-600 hover:text-gray-900">Contact</a>
           </div>
         </nav>
       </div>
@@ -66,16 +66,16 @@
             </div>
           </div>
           <div class="px-2 pt-2 pb-3 space-y-1">
-            <a href="#" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">Home</a>
+            <a href="/home" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">Home</a>
 
-            <a href="#" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">About</a>
+            <a href="/about" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">About</a>
 
-            <a href="#" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">Services</a>
+            <a href="/services" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">Services</a>
 
-            <a href="#" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">Jobs</a>
+            <a href="/jobs" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">Jobs</a>
           </div>
-          <a href="#" class="block w-full px-5 py-3 text-center font-medium text-indigo-600 bg-gray-50 hover:bg-gray-100">
-            Contact
+          <a href="/contact" class="block w-full px-5 py-3 text-center font-medium text-indigo-600 bg-gray-50 hover:bg-gray-100">
+            Contact-Us
           </a>
         </div>
       </div>

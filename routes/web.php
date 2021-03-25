@@ -17,13 +17,17 @@ Route::get('/', function () {
     return view('Pages.home');
 });
 
-Route::get('/job', function () {
-    return view('Pages.Jobs');
-});
-
-
 Route::get('/about', function () {
-    return view('Pages.About');
+    return view('Pages.about');
+});
+Route::get('/services', function () {
+    return view('Pages.services');
+});
+Route::get('/jobs', function () {
+    return view('Pages.jobs');
+});
+Route::get('/contact', function () {
+    return view('Pages.contact');
 });
 
 

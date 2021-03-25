@@ -14,14 +14,17 @@
                             <a class="text-blue-700  hover:text-gray-800 dark:hover:text-white px-3 py-2 rounded-md text-lg font-medium" href="/">
                                 Home
                             </a>
-                            <a class="text-blue-700  hover:text-gray-800 hover:text-gray-800 dark:hover:text-white px-3 py-2 rounded-md text-lg font-medium" href="/#">
-                                Gallery
+                            <a class="text-blue-700  hover:text-gray-800 hover:text-gray-800 dark:hover:text-white px-3 py-2 rounded-md text-lg font-medium" href="/about">
+                                About
                             </a>
-                            <a class="text-blue-700 hover:text-gray-800 dark:hover:text-white px-3 py-2 rounded-md text-lg font-medium" href="/#">
-                                Content
+                            <a class="text-blue-700 hover:text-gray-800 dark:hover:text-white px-3 py-2 rounded-md text-lg font-medium" href="/services">
+                                Services
                             </a>
-                            <a class="text-blue-700 hover:text-gray-800 dark:hover:text-white px-3 py-2 rounded-md text-lg font-medium" href="/#">
-                                Contact
+                            <a class="text-blue-700 hover:text-gray-800 dark:hover:text-white px-3 py-2 rounded-md text-lg font-medium" href="/jobs">
+                                Find Jobs
+                            </a>
+                            <a class="text-blue-700 hover:text-gray-800 dark:hover:text-white px-3 py-2 rounded-md text-lg font-medium" href="/contact">
+                                Contact-Us
                             </a>
                         </div>
                     </div>
@@ -42,17 +45,20 @@
         </div>
         <div class="md:hidden">
             <div class="px-2 pt-2 pb-3 space-y-1 sm:px-3">
-                <a class="text-gray-300 hover:text-gray-800 dark:hover:text-white block px-3 py-2 rounded-md text-base font-medium" href="/#">
+                <a class="text-gray-300 hover:text-gray-800 dark:hover:text-white block px-3 py-2 rounded-md text-base font-medium" href="/">
                     Home
                 </a>
-                <a class="text-gray-800 dark:text-white block px-3 py-2 rounded-md text-base font-medium" href="/#">
-                    Gallery
+                <a class="text-gray-800 dark:text-white block px-3 py-2 rounded-md text-base font-medium" href="/about">
+                    About
                 </a>
-                <a class="text-gray-300 hover:text-gray-800 dark:hover:text-white block px-3 py-2 rounded-md text-base font-medium" href="/#">
-                    Content
+                <a class="text-gray-300 hover:text-gray-800 dark:hover:text-white block px-3 py-2 rounded-md text-base font-medium" href="/services">
+                    Services
                 </a>
-                <a class="text-gray-300 hover:text-gray-800 dark:hover:text-white block px-3 py-2 rounded-md text-base font-medium" href="/#">
-                    Contact
+                <a class="text-gray-300 hover:text-gray-800 dark:hover:text-white block px-3 py-2 rounded-md text-base font-medium" href="/jobs">
+                    Find Jobs
+                </a>
+                <a class="text-gray-300 hover:text-gray-800 dark:hover:text-white block px-3 py-2 rounded-md text-base font-medium" href="/contact">
+                    Contact-Us
                 </a>
             </div>
         </div>
