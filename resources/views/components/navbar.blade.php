@@ -2,7 +2,7 @@
 
 
 <div>
-    <nav class="bg-white dark:bg-gray-800  ">
+    <nav class=" fixed w-full  inset-x-0 top-0 h-16 bg-white dark:bg-gray-800">
         <div class="max-w-7xl mx-auto px-8">
             <div class="flex items-center justify-between h-16">
                 <div class=" flex items-center">
