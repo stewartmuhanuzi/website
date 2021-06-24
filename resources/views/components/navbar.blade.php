@@ -1,7 +1,7 @@
 <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
 
 
-<div>
+<div class="container bg-indigo-900">
     <nav class=" fixed w-full  inset-x-0 top-0 h-16 bg-white dark:bg-gray-800">
         <div class="max-w-7xl mx-auto px-8">
             <div class="flex items-center justify-between h-16">
